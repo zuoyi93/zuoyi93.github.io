@@ -1,22 +1,22 @@
-title:            Jiawen 's site
+title:            Yi Zuo 's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:   https://utayao.github.io 
-disqus_shortname: jy
+url:   https://zuoyi93.github.io 
+disqus_shortname: yz
 
 # Owner/author information
 owner:
-  name:           Jiawen Yao
+  name:           Yi Zuo
   avatar:         Jiawen.jpg
-  bio:            I'm from a historic city in China where it was the capital of 13 Chinese empires. Currently in Arlington, Texas. Passionate about computer vision, technology, badminton, and travel.
-  email:          yjiaweneecs@gmail.com
+  bio:            I'm a Ph.D student at Department of Biostatistics, Vanderbilt University
+  email:          yi.zuo@vanderbilt.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  linkedin: jiawen-yao-3261b892
-  google_scholar: krtXz3QAAAAJ
-  google_plus: 111639913619953983529
-  github: utayao
+  linkedin: yi-zuo-3b44b170
+  google_scholar: 
+  google_plus: 
+  github: zuoyi93
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
