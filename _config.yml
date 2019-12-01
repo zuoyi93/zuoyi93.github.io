@@ -25,7 +25,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: 'https://zuoyi93.github.io'
+    url: /
   - title: Curriculum
     url: /cv/
   - title: Publications
