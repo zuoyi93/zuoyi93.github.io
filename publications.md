@@ -22,6 +22,7 @@ Bindu Kalesan, Laura Ann Sampson, <b>Yi Zuo</b>, Sandro Galea
 <br><b>Sex and age modify the relationship between life circumstances and use of a firearm in suicide deaths across 17 U.S. states</b><br>
 <i>Journal of Affective Disorders</i> , 2018. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032717322607">[PDF]</a> 
 </p>
+<br>
 
 <p>
 Bindu Kalesan, <b>Yi Zuo</b>, Ziming Xuan, Michael B Siegel, Jeffrey Fagan, Charles Branas, Sandro Galea
