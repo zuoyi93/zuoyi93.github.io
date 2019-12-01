@@ -18,9 +18,9 @@ You can also see my full publication list from <a href="https://scholar.google.c
 ---
 
 <p>
-Bindu Kalesan, Laura Ann Sampson, <b>Yi Zuo</b>, Sandro Galea 
-<br><b>Sex and age modify the relationship between life circumstances and use of a firearm in suicide deaths across 17 U.S. states</b><br>
-<i>Journal of Affective Disorders</i> , 2018. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032717322607">[PDF]</a> 
+<b>Yi Zuo</b>, Elizabeth C Pino, Mrithyunjay Vyliparambil, Bindu Kalesan
+<br><b>Sex differences in early cardiovascular and all-cause hospitalization outcomes after surviving firearm injury</b><br>
+<i>American Journal of Men's Health</i> , 2018. <a href="https://journals.sagepub.com/doi/full/10.1177/1557988318761989">[PDF]</a> 
 </p>
 <br>
 
@@ -44,7 +44,7 @@ Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C 
 ---
 
 <p>
-<b>Yi Zuo</b>. (Nov. 6, 2017) <br><b>Patterns of injury severity in firearm hospitalizations from 1993 to 2013: A repeated cross-sectional study.</b><br> (Session 3277.0, Abstract Number 389707) <i>American Public Health Association Annual Meeting & Expo 2017</i>, Atlanta
+<b>Yi Zuo</b>. <b>Patterns of injury severity in firearm hospitalizations from 1993 to 2013: A repeated cross-sectional study.</b> (Session 3277.0, Abstract Number 389707) <i>American Public Health Association Annual Meeting & Expo 2017</i>, Atlanta, Nov. 6, 2017
 </p>
 
 
