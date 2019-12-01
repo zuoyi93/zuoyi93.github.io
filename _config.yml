@@ -1,4 +1,4 @@
-title:            Yi Zuo 's site
+title:            Yi Zuo 
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:   https://zuoyi93.github.io 
@@ -8,11 +8,11 @@ disqus_shortname: yz
 owner:
   name:           Yi Zuo
   avatar:         me.jpg
-  bio:            I'm a Ph.D student at Department of Biostatistics, Vanderbilt University
+  bio:            Ph.D student at Department of Biostatistics, Vanderbilt University
   email:          yi.zuo@vanderbilt.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: yi-zuo-3b44b170
-  google_scholar: 
+  google_scholar: 3djXdpYAAAAJ
   google_plus: 
   github: zuoyi93
 # Analytics and webmaster tools stuff goes here

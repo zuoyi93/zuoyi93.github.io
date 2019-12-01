@@ -10,15 +10,15 @@ image:
 I'm a second-year Ph.D. student in Department of Biostatistics, Vanderbilt University. I am working under the supervision of [Dr. Jeffrey Blume](http://biostat.mc.vanderbilt.edu/wiki/Main/JeffreyBlume).
 
 <br />
-My research focuses on the deep learning with its applications especially for medical imaging and Health Informatics. I am doing research on survival prediction which can help doctors to make treatment decision using patients' big Imaging Genomics data. 
+My research focuses on the large scale inference. I am also doing research on predicting the penetrance of rare diseases from variant-specific features (e.g. function, structural context, and sequence conservation)
 
 <br /> 
-Before coming to UTA, I finished my master thesis with the topic of background subtraction with matrix decomposition. At part-time, I was responsible for a project using Kinect as the "eye" of the robot. This won the 1st place in "Microsoft Student Challenge 2012" from 530 nationwide teams.[[link]](http://jwyao.weebly.com/robot.html)[[MSRA News]](http://www.msra.cn/zh-cn/news/features/aca84558-3608-425f-a2ea-ac73d53bf7d2).
+Before coming to Vanderbilt, I obtained my Master of Public Health degree at Boston University with a concentration on Biostatistics. I worked as the Lead Biostatistician at Boston University Center for Clinical Translational Epidemiology and Comparative Effectiveness Research ([CTECER](http://sites.bu.edu/tec/)) for one year after the program. I worked closely with [Dr. Bindu Kalesan](https://www.bumc.bu.edu/busm/profile/bindu-kalesan/)
 
 <br />
-From my past experiences on various projects, I am very passionate about AI in medicine and computer vision. I am currently looking for **2018 summer internship** and wish to find my next journey out of campus.
+From my past experiences on various projects, I am very passionate about large scale inference and translational research. I am currently looking for **2020 summer internship** and wish to find my next journey out of campus.
 
 ### News
---- Welcome to my new site. More will be updated
+--- Welcome to my site. More will be updated
 ---
 
