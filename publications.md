@@ -14,7 +14,7 @@ You can also see my full publication list from <a href="https://scholar.google.c
 
 
 
-#### Imaging Genomics Based Cancer Clinical Outcome Prediction (3 MICCAIs/1 CVPR)
+#### Firearm injury research
 ---
 
 
@@ -22,26 +22,14 @@ You can also see my full publication list from <a href="https://scholar.google.c
 
 <!-- Item: Maninis2017 -->
 
-<p><img align="right" width="180" src="{{ site.url }}/images/MICCAI17.png" alt="..."> 
-<b>Jiawen Yao</b>, Xinliang Zhu, Feiyun Zhu and Junzhou Huang
-<br><b>Deep Correlational Learning for Survival Prediction from Multi-modality Data</b><br>
-<i>Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>)</i>, 2017. <font color="red">Oral Presentation</font> (29/800=3.6%)</p>
-<a href="javascript:toggleBibtex('Caelles2017')">[BibTeX]</a>
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-66185-8_46">[PDF]</a> 
-[[**Project**]]({{ site.url }}/Multimodal_Survival/)
+Bindu Kalesan, Laura Ann Sampson, <b>Yi Zuo</b>, Sandro Galea 
+<br><b>Sex and age modify the relationship between life circumstances and use of a firearm in suicide deaths across 17 U.S. states</b><br>
+<i>Journal of Affective Disorders</i> , 2018. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032717322607">[PDF]</a> 
 
-<div id="bib_Caelles2017" class="bibtex noshow">
-<pre>
-@inproceedings{yao2017deep,
-  title={Deep Correlational Learning for Survival Prediction from Multi-modality Data},
-  author={Yao, Jiawen and Zhu, Xinliang and Zhu, Feiyun and Huang, Junzhou},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={406--414},
-  year={2017},
-  organization={Springer}
-}
-</pre>
-</div>
+
+Bindu Kalesan, <b>Yi Zuo</b>, Ziming Xuan, Michael B Siegel, Jeffrey Fagan, Charles Branas, Sandro Galea
+<br><b>A multi-decade joinpoint analysis of firearm injury severity</b><br>
+<i>Trauma Surgery & Acute Care Open<i> , 2018. <a href="https://tsaco.bmj.com/content/3/1/e000139?cpetoc=&utm_source=trendmd&utm_medium=cpc&utm_campaign=tsaco&utm_content=americas&utm_term=1-B">[PDF]</a> 
 
 
 
