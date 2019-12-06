@@ -7,18 +7,15 @@ image:
   feature: trees.jpg
 ---
 
-I'm a second-year Ph.D. student in Department of Biostatistics, Vanderbilt University. I am working under the supervision of [Dr. Jeffrey Blume](http://biostat.mc.vanderbilt.edu/wiki/Main/JeffreyBlume).
+I'm a second-year PhD student in the Department of Biostatistics at Vanderbilt University. I am working under the supervision of [Dr. Jeffrey D. Blume](www.statisticalevidence.com/about) and his Statistical Evidence in Data Science lab.  
 
 <br />
-My research focuses on the large scale inference. I am also doing research on predicting the penetrance of rare diseases from variant-specific features (e.g. function, structural context, and sequence conservation)
+My statistical research focuses on large scale inference, second-generation p-values, and model selection with penalized likelihoods. My collaborative research involves predicting the penetrance of rare diseases from variant-specific features (e.g. function, structural context, and sequence conservation). This exciting work is been done in [Kroncke lab](https://kroncke-lab.github.io).  
 
 <br /> 
-Before coming to Vanderbilt, I obtained my Master of Public Health degree at Boston University with a concentration on Biostatistics. I worked as the Lead Biostatistician at Boston University Center for Clinical Translational Epidemiology and Comparative Effectiveness Research ([CTECER](http://sites.bu.edu/tec/)) for one year after the program. I worked closely with [Dr. Bindu Kalesan](https://www.bumc.bu.edu/busm/profile/bindu-kalesan/)
+Before coming to Vanderbilt, I obtained my Master's of Public Health at Boston University with a concentration in Biostatistics. I was the Lead Biostatistician in the Boston University Center for Clinical Translational Epidemiology and Comparative Effectiveness Research ([CTECER](http://sites.bu.edu/tec/)) for several years. I continued to work closely with [Dr. Bindu Kalesan](https://www.bumc.bu.edu/busm/profile/bindu-kalesan/) on a variety of projects.  
 
 <br />
-From my past experiences on various projects, I am very passionate about large scale inference and translational research. I am currently looking for **2020 summer internship** and wish to find my next journey out of campus.
+On a personal note, I'm very interested in aviation, and my flight history is shown in the graphic header. When I'm not doing Biostatistics or data science (or studying for classes), I'm flying somewhere new or analyzing aviation trend.   
 
-### News
---- Welcome to my site. More will be updated
----
 
