@@ -13,9 +13,9 @@ You can also see my full publication list from <a href="https://scholar.google.c
 </p>
 
 
-
-#### Firearm injury research
 ---
+#### Firearm injury research
+
 
 <p>
 <b>Yi Zuo</b>, Elizabeth C Pino, Mrithyunjay Vyliparambil, Bindu Kalesan
@@ -31,8 +31,9 @@ Bindu Kalesan, <b>Yi Zuo</b>, Ziming Xuan, Michael B Siegel, Jeffrey Fagan, Char
 </p>
 
 
-#### Psychiatry research
 ---
+#### Psychiatry research
+
 <p>
 Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C Henderson, Christina PC Borba, Snezana M Milanovic, Bindu Kalesan  
 <br><b>Temporal trends of co-diagnosis of depression and/or anxiety among female maternal and non-maternal hospitalizations: Results from Nationwide Inpatient Sample 2004–2013</b><br>
@@ -40,8 +41,8 @@ Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C 
 
 </p>
 
-#### Oral presentation
 ---
+#### Oral presentation
 
 <p>
 <b>Yi Zuo</b>. <b>Patterns of injury severity in firearm hospitalizations from 1993 to 2013: A repeated cross-sectional study.</b> (Session 3277.0, Abstract Number 389707) <i>American Public Health Association Annual Meeting & Expo 2017</i>, Atlanta, Nov. 6, 2017

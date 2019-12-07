@@ -8,7 +8,7 @@ disqus_shortname: yz
 owner:
   name:           Yi Zuo
   avatar:         me.jpg
-  bio:            PhD student\n Dept. of Biostatistics\n Vanderbilt University
+  bio:            PhD student <br> Dept. of Biostatistics <\br> <br> Vanderbilt University<\br> <br>Nashville, TN <\br>
   email:          yi.zuo@vanderbilt.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: yi-zuo-3b44b170
