@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: Featured Publications
+title: Select Publications
 tags: [publications]
 modified: 11-30-2019
 comments: false

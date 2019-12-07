@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: My CV
+title: Academics
 tags: [about]
 modified: 11-30-2019
 comments: false
