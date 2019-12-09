@@ -13,5 +13,5 @@ comments: false
 * ASA Member
 * APHA Member
 
-You can also download my [full CV](\PDF\cv.pdf).
+You can also download my [<span style="color:blue;">full CV</span>](\PDF\cv.pdf).
 

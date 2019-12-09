@@ -9,7 +9,7 @@ comments: false
 
 
 <p>
-You can also see my full publication list from <a href="https://scholar.google.com/citations?user=3djXdpYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also see my full publication list from <a href="https://scholar.google.com/citations?user=3djXdpYAAAAJ&hl=en" target="_blank"><span style="color:blue;">Google Scholar profile</span>></a>.
 </p>
 
 
