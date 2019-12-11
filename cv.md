@@ -9,7 +9,7 @@ comments: false
   
 
 
-### Membership
+### Memberships
 * ASA Member
 * APHA Member
 
