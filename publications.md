@@ -45,6 +45,11 @@ Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C 
 #### Oral presentation
 
 <p>
+<b>Yi Zuo</b>. <b> 
+An Investigation of Fully Relaxed Lasso and Second-Generation P-Values for High-Dimensional Feature Selection</b> (Session: Variable selection: how to choose?) <i>Eastern North American Region International Biometric Society (ENAR) 2020</i>, Nashville, Mar. 23, 2020 [<span style="color:blue;">Slides</span>](\PDF\enar.pdf).
+</p>
+
+<p>
 <b>Yi Zuo</b>. <b>Patterns of injury severity in firearm hospitalizations from 1993 to 2013: A repeated cross-sectional study.</b> (Session 3277.0, Abstract Number 389707) <i>American Public Health Association Annual Meeting & Expo 2017</i>, Atlanta, Nov. 6, 2017
 </p>
 
