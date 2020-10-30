@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I'm a third-year PhD student in the Department of Biostatistics at Vanderbilt University. I am working under the supervision of [<span style="color:blue;"> Dr. Jeffrey D. Blume</span>](https://www.statisticalevidence.com/about) and his Statistical Evidence in Data Science lab.  
+I'm a PhD candidate in the Department of Biostatistics at Vanderbilt University. I am working under the supervision of [<span style="color:blue;"> Dr. Jeffrey D. Blume</span>](https://www.statisticalevidence.com/about) and his Statistical Evidence in Data Science lab.  
 
 <br />
 My statistical research focuses on large scale inference, second-generation p-values, and model selection with penalized likelihoods. My collaborative research involves predicting the penetrance of rare diseases from variant-specific features (e.g. function, structural context, and sequence conservation). This exciting work was done in [<span style="color:blue;">Kroncke lab</span>](https://kroncke-lab.github.io).  
