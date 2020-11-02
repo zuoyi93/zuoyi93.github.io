@@ -3,7 +3,7 @@ layout: publications
 permalink: /publications/
 title: Select Publications
 tags: [publications]
-modified: 11-30-2019
+modified: 11-02-2020
 comments: false
 ---
 
@@ -46,7 +46,7 @@ Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C 
 
 <p>
 <b>Yi Zuo</b>. <b> 
-An Investigation of Fully Relaxed Lasso and Second-Generation P-Values for High-Dimensional Feature Selection</b> (Session: Variable selection: how to choose?) <i>Eastern North American Region International Biometric Society (ENAR) 2020</i>, Nashville, Mar. 23, 2020 
+An Investigation of Fully Relaxed Lasso and Second-Generation P-Values for High-Dimensional Feature Selection</b> (Session: Variable selection: how to choose?) <i>Eastern North American Region International Biometric Society (ENAR) 2020</i>, Nashville, Mar. 23, 2020  
 </p>
 [<span style="color:blue;">Slides</span>](\PDF\enar.pdf) 
 

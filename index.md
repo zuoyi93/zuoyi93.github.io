@@ -16,6 +16,6 @@ My statistical research focuses on large scale inference, second-generation p-va
 Before coming to Vanderbilt, I obtained my Master's of Public Health at Boston University with a concentration in Biostatistics. I was the Lead Biostatistician in the Boston University Center for Clinical Translational Epidemiology and Comparative Effectiveness Research ([<span style="color:blue;">CTECER</span>](http://sites.bu.edu/tec/)) for several years. I continued to work closely with [<span style="color:blue;">Dr. Bindu Kalesan</span>](https://www.bumc.bu.edu/busm/profile/bindu-kalesan/) on a variety of projects.  
 
 <br />
-On a personal note, I'm very interested in aviation, and my flight history is shown in the graphic header. When I'm not doing Biostatistics or data science (or studying for classes), I'm flying somewhere new or analyzing aviation [<span style="color:blue;">trends</span>](\	PDF\bos_poster.pdf).   
+On a personal note, I'm very interested in aviation, and my flight history is shown in the graphic header. When I'm not doing Biostatistics or data science, I'm flying somewhere new or analyzing aviation [<span style="color:blue;">trends</span>](\	PDF\bos_poster.pdf).   
 
 
