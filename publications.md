@@ -12,6 +12,15 @@ comments: false
 You can also see my full publication list from <a href="https://scholar.google.com/citations?user=3djXdpYAAAAJ&hl=en" target="_blank"><span style="color:blue;">Google Scholar profile</span></a>.
 </p>
 
+---
+#### Statistical research
+
+<p>
+<b>Yi Zuo</b>, Thomas Stewart, Jeffrey Blume
+<br><b>Variable selection with second-generation p-values</b><br>
+<a href="https://arxiv.org/abs/2012.07941">[<span style="color:blue;">arXiv link</span>]</a> 
+</p>
+<br>
 
 ---
 #### Firearm injury research
@@ -57,7 +66,5 @@ An Investigation of Fully Relaxed Lasso and Second-Generation P-Values for High-
 </p>
 
 [<span style="color:blue;">Slides</span>](\PDF\apha.pptx) 
-
-
 
 
