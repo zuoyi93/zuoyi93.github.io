@@ -21,7 +21,7 @@ You can also see my full publication list from <a href="https://scholar.google.c
 <a href="https://arxiv.org/abs/2012.07941">[<span style="color:blue;">arXiv link</span>]</a> 
 </p>
 
-An <p><span class="sans-serif">R</span></p> package is available on <a href="https://cran.r-project.org/package=ProSGPV">[<span style="color:blue;">CRAN</span>]</a>.
+An R package is available on <a href="https://cran.r-project.org/package=ProSGPV">[<span style="color:blue;">CRAN</span>]</a>.
 
 <br>
 
