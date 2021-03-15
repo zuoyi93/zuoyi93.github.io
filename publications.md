@@ -58,9 +58,17 @@ Elizabeth C Pino, <b>Yi Zuo</b>, Shayna H Schor, Stephanie Zatwarnicki, David C 
 
 <p>
 <b>Yi Zuo</b>. <b> 
+Feature Selection by Second-Generation P-Values Can Outperform Oracle Adaptive Lasso</b> (Session: Contributed Papers: Variable Selection) <i>Eastern North American Region International Biometric Society (ENAR) 2021</i>, Virtual, Mar. 17, 2021  
+</p>
+[<span style="color:blue;">Slides</span>](\PDF\enar2021.pdf) 
+
+<br>
+
+<p>
+<b>Yi Zuo</b>. <b> 
 An Investigation of Fully Relaxed Lasso and Second-Generation P-Values for High-Dimensional Feature Selection</b> (Session: Variable selection: how to choose?) <i>Eastern North American Region International Biometric Society (ENAR) 2020</i>, Nashville, Mar. 23, 2020  
 </p>
-[<span style="color:blue;">Slides</span>](\PDF\enar.pdf) 
+[<span style="color:blue;">Slides</span>](\PDF\enar2020.pdf) 
 
 <br>
 
