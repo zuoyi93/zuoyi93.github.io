@@ -23,7 +23,7 @@ The second derivative of the log-likelihood function is
 
 `$$\frac{\partial^2\ell(\theta)}{\partial\theta^2}=\frac{-n}{\theta^2} $$`
 
-The MLE $\hat\theta$ can derived from letting the score function equal to 0:  
+The MLE `$\hat\theta$` can derived from letting the score function equal to 0:  
 
 `$$\hat\theta=\frac{n}{\sum_{i=1}^n x_i}=\frac{1}{\bar x_n} $$`
 The expected Fisher's information `$\mathcal I(\theta)$` under the true model is  
@@ -32,7 +32,8 @@ The expected Fisher's information `$\mathcal I(\theta)$` under the true model is
 An estimate of the expected Fisher's information is  
 
 `$$\widehat{\mathcal I_n(\theta)}=\frac{n}{\hat\theta^2}=n\bar x^2_n $$`
-The limiting distribution of $\sqrt n(\hat\theta-\theta)$ is  
+
+The limiting distribution of `$\sqrt n(\hat\theta-\theta)$` is  
 
 `$$
 \begin{aligned}
