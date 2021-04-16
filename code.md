@@ -15,7 +15,7 @@ I will share some of my notes and projects here.
 
 * MLE, Fisher's information, and robust standard error <br>
 
-This is a [<span style="color:blue;">post</span>]({{ site.baseurl }}{% link \doc\information.md %}) on a couple of concepts in the foundation of statistical inference. 
+This is a [<span style="color:blue;">post</span>]({{ site.baseurl }}{% link doc\information.md %}) on a couple of concepts in the foundation of statistical inference. 
 
 ## Research
 
