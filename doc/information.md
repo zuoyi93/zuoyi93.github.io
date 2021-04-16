@@ -26,7 +26,7 @@ The second derivative of the log-likelihood function is
 The MLE $\hat\theta$ can derived from letting the score function equal to 0:  
 
 `$$\hat\theta=\frac{n}{\sum_{i=1}^n x_i}=\frac{1}{\bar x_n} $$`
-The expected Fisher's information $\mathcal I(\theta)$ under the true model is  
+The expected Fisher's information `$\mathcal I(\theta)$` under the true model is  
 
 `$$\mathcal I_n(\theta)=Var(S_n)=\mathbb E(S_n^2)=-\left (\frac{\partial^2\ell(\theta)}{\partial\theta^2}\right)=\frac{n}{\theta^2} $$`
 An estimate of the expected Fisher's information is  
@@ -41,26 +41,23 @@ The limiting distribution of $\sqrt n(\hat\theta-\theta)$ is
 \end{aligned}
 $$`
 
-The limiting distribution of `$\sqrt n(\hat\theta-\theta)$ $\color{red}{\text{IS NOT}}$`
+The limiting distribution of `$\sqrt n(\hat\theta-\theta)$` `$\color{red}{\text{IS NOT}}$`
 
-`
-$$
-\color{red}{
+`$$\color{red}{
 \begin{aligned}
 \sqrt n(\hat\theta-\theta)&\stackrel{d}{\rightarrow}N(0,\frac{1}{\widehat {\mathcal I(\theta)} }) \\
 &\stackrel{d}{\rightarrow}N(0,\hat\theta^2) \\
 &\stackrel{d}{\rightarrow}N(0,\frac{1}{\bar x_n^2})
 \end{aligned}
-}
-$$
-`
+}$$`
+
 Because there is no sample average in the limit; it turns into the population average.  
  
-An asymptotically valid 95\% confidence interval for $\hat\theta$ is  
+An asymptotically valid 95% confidence interval for `$\hat\theta$` is  
 
 `$$\hat\theta\pm 1.96\sqrt{\frac{\hat\theta^2}{n}} $$`
 
-When $\hat\theta$ is replaced with MLE, we can write the confidence interval as  
+When `$\hat\theta$` is replaced with MLE, we can write the confidence interval as  
 
 `$$\frac{1}{\bar x_n}\pm \sqrt{\frac{1}{n\bar x_n^2}} $$`
 
@@ -68,14 +65,15 @@ When a robust estimate is of interest, we can write down `$a$` as
 
 `$$a=-\mathbb E\left(\frac{\partial^2\ell(x_i;\theta)}{\partial\theta^2}\right)=\frac{1}{\theta^2} $$`
 
-An estiamte for $a$ would be  
+An estiamte for `$a$` would be  
 
 `$$\hat a =-\frac{1}{n}\sum_{i=1}^n \frac{\partial^2\ell(x_i;\hat\theta)}{\partial\theta^2} =\frac{1}{1/\bar x_n^2}=\bar x_n^2  $$`
+
 Meanwhile, `$b$` is 
 
 `$$b=\mathbb E(S_i^2)=\mathbb E(\frac{1}{\theta}-\bar x_n)^2=\frac{1}{\theta^2}+\mathbb E(x_i^2)-\frac{2\mathbb E(x_i)}{\theta}=\frac{1}{\theta^2}+Var(x_i)+(\mathbb E(x_i))^2-\frac{2}{\theta^2}=\frac{1}{\theta^2} $$`
 
-An estiamte for $b$ would be  
+An estiamte for `$b$` would be  
 
 `$$\hat b =  \frac{1}{n}\sum_{i=1}^n \left(\frac{\partial\ell(x_i;\hat\theta)}{\partial\theta}\right)^2= \frac{1}{n}\sum_{i=1}^n \left(\frac{1}{\hat\theta}-x_i\right)^2=\frac{1}{n}\sum_{i=1}^n (x_i-\bar x_n)^2 $$`
 
