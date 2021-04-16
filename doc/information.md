@@ -17,7 +17,7 @@ Let `$X_1,...,X_n\sim$` i.i.d. Exp(`$\theta$`) (Exponential distribution with me
 
 The likelihood function for a sample of size `$n$` is  
 
-$$L(\theta)=\prod_{i=1}^n\theta\exp(-\theta x_i)=\theta^n\exp(-\theta\sum_{i=1}^nx_i) $$
+`$$L(\theta)=\prod_{i=1}^n\theta\exp(-\theta x_i)=\theta^n\exp(-\theta\sum_{i=1}^nx_i) $$`
 The log-likelihood function is   
 
 $$\ell_n(\theta)=\log L(\theta) = n\log\theta-\theta\sum_{i=1}^n x_i $$
