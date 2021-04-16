@@ -30,3 +30,7 @@ The score function is
 
 `$$S_n=\frac{\partial l_n(\theta)}{\partial\theta}=\frac{n}{\theta}-\sum_{i=1}^n x_i $$`
 
+The second derivative of the log-likelihood function is 
+
+
+
