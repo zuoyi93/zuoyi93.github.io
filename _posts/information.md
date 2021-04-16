@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: doc/information
+permalink: posts/information
 title: Notes on MLE, Fisher's information and robust SE
 tags: [code]
 modified: 4-15-2021
