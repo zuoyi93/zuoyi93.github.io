@@ -9,8 +9,8 @@ comments: false
 
 The complete notes are shown below.  
 
-<object data="PDF/information.pdf" width="750px" height="750px">
-    <embed src="PDF/information.pdf">
+<object data="../PDF/information.pdf" width="750px" height="750px">
+    <embed src="../PDF/information.pdf">
     </embed>
 </object>
 
