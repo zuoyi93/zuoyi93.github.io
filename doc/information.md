@@ -7,10 +7,7 @@ modified: 4-15-2021
 comments: false
 ---
 
-
-<script src="//yihui.org/js/math-code.js"></script>
-
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 
 Let `$X_1,...,X_n\sim$` i.i.d. Exp(`$\theta$`) (Exponential distribution with mean `$1/\theta$`).
