@@ -3,7 +3,7 @@ layout: publications
 permalink: /publications/
 title: Select Publications
 tags: [publications]
-modified: 01-15-2021
+modified: 04-21-2021
 comments: false
 ---
 
@@ -21,7 +21,7 @@ You can also see my full publication list from <a href="https://scholar.google.c
 <a href="https://arxiv.org/abs/2012.07941">[<span style="color:blue;">arXiv link</span>]</a> 
 </p>
 
-An R package is available on <a href="https://cran.r-project.org/package=ProSGPV">[<span style="color:blue;">CRAN</span>]</a>.
+An R package is available on <a href="https://cran.r-project.org/package=ProSGPV">[<span style="color:blue;">CRAN</span>]</a> and a development version is available [<span style="color:blue;"> here </span>](https://github.com/zuoyi93/ProSGPV).
 
 <br>
 
