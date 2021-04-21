@@ -2,8 +2,8 @@
 layout: post
 permalink: /posts/information
 title: Notes on MLE, Fisher's information and robust SE
-tags: [code]
-modified: 4-15-2021
+tags: [blog]
+modified: 4-21-2021
 comments: false
 ---
 
@@ -26,6 +26,7 @@ The second derivative of the log-likelihood function is
 The MLE `$\hat\theta$` can derived from letting the score function equal to 0:  
 
 `$$\hat\theta=\frac{n}{\sum_{i=1}^n x_i}=\frac{1}{\bar x_n} $$`
+
 The expected Fisher's information `$\mathcal I(\theta)$` under the true model is  
 
 `$$\mathcal I_n(\theta)=Var(S_n)=\mathbb E(S_n^2)=-\left (\frac{\partial^2\ell(\theta)}{\partial\theta^2}\right)=\frac{n}{\theta^2} $$`
