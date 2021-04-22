@@ -6,11 +6,10 @@ tags: [blog]
 modified: 4-21-2021
 comments: false
 ---
-
-<p>
-The key ideas of primal dual active set (PDAS) algorithm for solving the best subset selection problem are summarized here. The original paper can be found [<span style="color:blue;"> here </span>](https://www.jstatsoft.org/article/view/v094i04). They also have a very nice R package on [<span style="color:blue;"> CRAN </span>](https://cran.r-project.org/web/packages/BeSS/index.html). 
+<div style="line-height: 2"> 
+The key ideas of primal dual active set (PDAS) algorithm for solving the best subset selection problem are summarized here. The original paper can be found <span style="color:blue;"> here </span>(https://www.jstatsoft.org/article/view/v094i04). They also have a very nice R package on <span style="color:blue;"> CRAN </span>(https://cran.r-project.org/web/packages/BeSS/index.html). 
 <br>
-</p>
+</div>
 
 Let `$\boldsymbol X\in\mathbb R^{n\times p}$` denote the design matrix, `$\boldsymbol y\in\mathbb R^n$` denote the outcome vector, and `$\boldsymbol\beta\in\mathbb R^p$` is the coefficient vector. The best subset selection problem with the subset size `$k$` is given by the following optimization problem:  
 
