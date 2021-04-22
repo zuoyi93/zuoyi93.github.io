@@ -7,7 +7,7 @@ modified: 4-21-2021
 comments: false
 ---
 
-<p>The key ideas of primal dual active set (PDAS) algorithm for solving the best subset selection problem are summarized here. The original paper can be found [<span style="color:blue;"> here </span>](https://www.jstatsoft.org/article/view/v094i04). They also have a very nice R package on [<span style="color:blue;"> CRAN </span>](https://cran.r-project.org/web/packages/BeSS/index.html). <br>
+The key ideas of primal dual active set (PDAS) algorithm for solving the best subset selection problem are summarized here. The original paper can be found [<span style="color:blue;"> here </span>](https://www.jstatsoft.org/article/view/v094i04). They also have a very nice R package on [<span style="color:blue;"> CRAN </span>](https://cran.r-project.org/web/packages/BeSS/index.html). 
 
 
 Let `$\boldsymbol X\in\mathbb R^{n\times p}$` denote the design matrix, `$\boldsymbol y\in\mathbb R^n$` denote the outcome vector, and `$\boldsymbol\beta\in\mathbb R^p$` is the coefficient vector. The best subset selection problem with the subset size `$k$` is given by the following optimization problem:  
@@ -16,7 +16,7 @@ Let `$\boldsymbol X\in\mathbb R^{n\times p}$` denote the design matrix, `$\bolds
 \underset{\boldsymbol\beta\in\mathbb R^p}{\min} l(\boldsymbol\beta)\: \text{ s.t. } \left\Vert \boldsymbol\beta \right\Vert_0 = k 
 $$`
 
-where `$l(\boldsymbol\beta)$` is a convex loss function of `$\boldsymbol\beta$ and $\left\Vert \boldsymbol\beta \right\Vert_0=\sum_{j=1}^p\left\vert\beta_j\right\vert_0=\sum_{j=1}^p 1_{\beta_j\neq 0}$` counts the number of nonzeros in `$\boldsymbol\beta$`. The best subset selection problem admits non-unique local optimal solutions, so coordinate-wise minimizers `$\boldsymbol\beta^\diamond$` would be used in this case. The vectors of gradient and Hessian diagonal are  
+where `$l(\boldsymbol\beta)$` is a convex loss function of `$\boldsymbol\beta$` and `$\left\Vert \boldsymbol\beta \right\Vert_0=\sum_{j=1}^p\left\vert\beta_j\right\vert_0=\sum_{j=1}^p 1_{\beta_j\neq 0}$` counts the number of nonzeros in `$\boldsymbol\beta$`. The best subset selection problem admits non-unique local optimal solutions, so coordinate-wise minimizers `$\boldsymbol\beta^\diamond$` would be used in this case. The vectors of gradient and Hessian diagonal are  
 
 `$$
 \boldsymbol g^\diamond = \nabla l(\boldsymbol \beta^\diamond),\: \boldsymbol h^\diamond=\text{diag}(\nabla^2 l(\boldsymbol\beta^\diamond))
@@ -57,4 +57,4 @@ $$`
 
 In the equation above, `$\boldsymbol\beta^\diamond=(\beta_1^\diamond,...,\beta_p^\diamond)$` are primal variables, `$\boldsymbol\gamma^\diamond=(\gamma_1^\diamond,...,\gamma_p^\diamond)$` are dual variables, and `$\boldsymbol\Delta^\diamond=(\Delta_1^\diamond,...,\Delta_p^\diamond)$` are reference sacrifices. 
 
-<\p>
+
