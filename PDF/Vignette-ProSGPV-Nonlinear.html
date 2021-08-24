@@ -177,7 +177,7 @@ div.csl-indent {
 
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
-<p><code>ProSGPV</code> is a package that performs variable selection with Second-Generation P-Values (SGPV). This document illustrates how <code>ProSGPV</code> performs variable selection with data from generalized linear models (GLM) and Cox proportional hazards models. Technical details about this algorithm can be found at <span class="citation"><a href="#ref-zuo2020variable" role="doc-biblioref">Zuo, Stewart, and Blume</a> (<a href="#ref-zuo2020variable" role="doc-biblioref">2020</a>)</span>.</p>
+<p><code>ProSGPV</code> is a package that performs variable selection with Second-Generation P-Values (SGPV). This document illustrates how <code>ProSGPV</code> performs variable selection with data from generalized linear models (GLM) and Cox proportional hazards models. Technical details about this algorithm can be found at <span class="citation"><a href="#ref-zuo2021variable" role="doc-biblioref">Zuo, Stewart, and Blume</a> (<a href="#ref-zuo2021variable" role="doc-biblioref">2021</a>)</span>.</p>
 <p>We will use Logistic regression to illustrate how <code>ProSGPV</code> selects variables with a low-dimensional (<span class="math inline">\(n&gt;p\)</span>) real-world data example and how to choose models when each run gives you slightly different results. We will use Poisson regression to show how <code>ProSGPV</code> works with simulated high-dimensional Poisson data and a visualization tool for the selection process. We will use Cox proportional hazards model to show how a fast one-stage algorithm works with simulated data together with a visualization tool for the one-stage <code>ProSGPV</code>.</p>
 <p>To install the <code>ProSGPV</code> pacKakge from CRAN, you can do</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install</span>(<span class="st">&quot;ProSGPV&quot;</span>)</span></code></pre></div>
@@ -188,7 +188,8 @@ div.csl-indent {
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Loading required package: glmnet</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Loading required package: Matrix</span></span>
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Loaded glmnet 4.1-2</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Loading required package: brglm2</span></span></code></pre></div>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Loading required package: brglm2</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Package &#39;ProSGPV&#39; version 1.0.0</span></span></code></pre></div>
 </div>
 <div id="glm-examples" class="section level1">
 <h1>GLM examples</h1>
@@ -406,8 +407,8 @@ Kosmidis, Ioannis, and David Firth. 2021. <span>“Jeffreys-Prior Penalty, Finit
 <div id="ref-rahman2017performance" class="csl-entry">
 Rahman, M Shafiqur, and Mahbuba Sultana. 2017. <span>“Performance of Firth-and logF-Type Penalized Methods in Risk Prediction for Small or Sparse Binary Data.”</span> <em>BMC Medical Research Methodology</em> 17 (1): 1–15.
 </div>
-<div id="ref-zuo2020variable" class="csl-entry">
-Zuo, Yi, Thomas G Stewart, and Jeffrey D Blume. 2020. <span>“Variable Selection with Second-Generation p-Values.”</span> <em>arXiv Preprint arXiv:2012.07941</em>.
+<div id="ref-zuo2021variable" class="csl-entry">
+Zuo, Yi, Thomas G Stewart, and Jeffrey D Blume. 2021. <span>“Variable Selection with Second-Generation p-Values.”</span> <em>The American Statistician</em>, 1–11.
 </div>
 </div>
 </div>
